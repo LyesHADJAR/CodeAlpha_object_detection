@@ -44,6 +44,7 @@ python main.py
 
 - Ensure the `yolov4-tiny.weights`, `yolov4-tiny.cfg`, and `classes.txt` files are placed in the `dnn_model` directory.
 - Modify the webcam settings or object detection parameters as needed.
+- You can exit using `q`
 
 ## License
 
